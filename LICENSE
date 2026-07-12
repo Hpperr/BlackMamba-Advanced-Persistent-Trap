@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Fire Wolf
+Copyright (c) 2024 F1REW0LF
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,21 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+BLACKMAMBA APT v4.0 - DISCLAIMER
+
+This software is provided for educational and authorized security testing 
+purposes only. The authors and contributors are not responsible for any 
+misuse, damage, or legal consequences arising from the use of this tool.
+
+By using this software, you agree to:
+1. Only use on systems you own or have explicit authorization to test
+2. Comply with all applicable laws and regulations
+3. Accept full responsibility for your actions
+4. Not use this tool for any illegal activities
+
+The techniques demonstrated in this tool highlight real-world vulnerabilities
+in CDN and edge cache implementations. Understanding these attack vectors
+is crucial for defenders to properly secure their infrastructure.
+
+Remember: "With great power comes great responsibility."
